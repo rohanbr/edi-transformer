@@ -1,1 +1,1 @@
-# edi-transformer
+go run main.go
